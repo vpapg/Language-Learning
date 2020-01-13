@@ -1,0 +1,259 @@
+der	Herr	Herren	man	1
+die	Frau	Frauen	woman	1
+der	Name	Namen	name	1
+der	Vorname	Vornamen	first name	1
+der	Familienname	Familiennamen	surname	1
+das	Land	Länder	country	1
+das	Alphabet	Alphabete	alphabet	1
+das	Kind	Kinder	child	2
+das	Jahr	Jahre	year	2
+der	Verkäufer	Verkäufer	seller (male)	2
+die	Verkäuferin	Verkäuferinnen	seller (female)	2
+der	Sekretär	Sekretäre	secretary (male)	2
+die	Sekretärin	Sekretärinnen	secretary (female)	2
+der	Schüler	Schüler	pupil (male)	2
+die	Schülerin	Schülerinnen	pupil (female)	2
+der	Schauspieler	Schauspieler	actor	2
+die	Schauspielerin	Schauspielerinnen	actress	2
+der	Student	Studenten	student (male)	2
+die	Studentin	Studentinnen	student (female)	2
+der	Mechatroniker	Mechatroniker	mechatronics engineer (male)	2
+die	Mechatronikerin	Mechatronikerinnen	mechatronics engineer (female)	2
+der	Lehrer	Lehrer	teacher (male)	2
+die	Lehrerin	Lehrerinnen	teacher (female)	2
+die	Krankenschwester	Krankenschwestern	nurse (female)	2
+der	Kellner	Kellner	waiter	2
+die	Kellnerin	Kellnerinnen	waitress	2
+der	Journalist	Journalisten	journalist (male)	2
+die	Journalistin	Journalistinnen	journalist (female)	2
+der	Ingenieur	Ingenieure	engineer (male)	2
+die	Ingenieurin	Ingenieurinnen	engineer (female)	2
+der	Friseur	Friseure	hair stylist (male)	2
+die	Friseurin	Friseurinnen	hair stylist (female)	2
+der	Arzt	Ärzte	doctor (male)	2
+die	Ärztin	Ärztinnen	doctor (female)	2
+der	Architekt	Architekten	architect (male)	2
+die	Architektin	Architektinnen	architect (female)	2
+die	Stelle	Stellen	job position	2
+die	Schule	Schulen	school	2
+das	Praktikum	Praktika	internship	2
+der	Job	Jobs	job	2
+die	Hochschule	Hochschulen	university	2
+die	Universität	Universitäten	university	2
+der	Beruf	Berufe	job/profession	2
+die	Ausbildung	Ausbildungen	apprenticeship	2
+der	Arbeitgeber	Arbeitgeber	employer (male)	2
+die	Arbeitgeberin	Arbeitgeberinnen	employer (female)	2
+das	Bett	Betten	bed	4
+das	Bild	Bilder	image/picture	4
+die	Lampe	Lampen	lamp	4
+der	Schrank	Schränke	closet	4
+der	Sessel	Sessel	armchair	4
+das	Sofa	Sofas	sofa	4
+die	Couch	Couchs/Couches/Couchen	couch	4
+der	Stuhl	Stühle	chair	4
+der	Tisch	Tische	table	4
+der	Teppich	Teppiche	carpet	4
+der	Euro	Euros	euro	4
+der	Cent	Cents	cent	4
+der	Preis	Preise	price	4
+das	Angebot	Angebote	offer	4
+das	Sonderangebot	Sonderangebote	special offer	4
+die	Hilfe	Hilfen	help	4
+das	Zimmer	Zimmer	room	4
+die	Familie	Familien	family	3
+der	Vater	Väter	father	3
+die	Mutter	Mütter	mother	3
+der	Sohn	Söhne	son	3
+die	Tochter	Töchter	daughter	3
+der	Großvater	Großväter	grandfather	3
+der	Opa	Opas	grandpa	3
+die	Großmutter	Großmütter	grandmother	3
+die	Oma	Omas	grandma	3
+der	Enkel/Enkelsohn	Enkel/Enkelsöhne	grandson	3
+die	Enkelin/Enkeltochter	Enkelinnen/Enkeltöchter	granddaughter	3
+das	Enkelkind	Enkelkinder	grandchild	3
+der	Bruder	Brüder	brother	3
+die	Schwester	Schwestern	sister	3
+der	Ehemann/Mann	Ehemänner/Männer	husband/man	3
+die	Ehefrau/Frau	Ehefrauen/Frauen	wife/woman	3
+die	Sprache	Sprachen	language	3
+der	Freund	Freunde	friend (male)/boyfriend	3
+die	Freundin	Freundinnen	friend (female)/girlfriend	3
+der	Kollege	Kollegen	colleague (male)/co-worker (male)	3
+die	Kollegin	Kolleginnen	colleague (female)/co-worker (female)	3
+der	Partner	Partner	partner (male)	3
+die	Partnerin	Partnerinnen	partner (female)	3
+die	Farbe	Farben	colour	5
+die	Form	Formen	shape	5
+das	Material	Materialen	material	5
+der	Bleistift	Bleistifte	pencil	5
+die	Brille	Brillen	eyeglasses	5
+die	Flasche	Flaschen	bottle	5
+das	Feuerzeug	Feuerzeuge	lighter	5
+der	Fotoapparat	Fotoapparate	camera	5
+die	Kette	Ketten	chain/necklace	5
+der	Kugelschreiber	Kugelschreiber	pen	5
+die	Tasche	Taschen	bag	5
+der	Regenschirm/Schirm	Regenschirme/Schirme	umbrella	5
+der	Ring	Ringe	ring	5
+das	Streichholz	Streichhölzer	match	5
+die	Geldbörse	Geldbörsen	wallet	5
+die	Seife	Seifen	soap	5
+das	Buch	Bücher	book	5
+die	Zeitung	Zeitungen	newspaper	5
+die	Adresse	Adressen	address	5
+das	Fax	Faxe	fax	5
+das	Geburtsdatum	Geburtsdaten	date of birth	5
+die	Hausnummer	Hausnummern	house number	5
+die	Nummer	Nummern	number	5
+der	Ort	Orte	place	5
+die	Postleitzahl	Postleitzahlen	post code	5
+die	Straße	Straßen	road	5
+die	Menge	Mengen	amount	5
+das	Problem	Probleme	problem	5
+das	Produkt	Produkte	product	5
+das	Wort	Wörter	word	5
+das	Wörterbuch	Wörterbücher	dictionary	5
+die	Wohnung	Wohnungen	flat/appartment	
+die	Blume	Blumen	flower	
+der	Hund	Hunde	dog	
+die	Tasse	Tassen	cup	
+der	Rock	Röcke	skirt	
+der	Schlüssel	Schlüssel	key	5
+das	Haus	Häuser	house	
+der	Stadtplan	Stadtpläne	map	
+die	Landkarte	Landkarten	map	
+die	Uhrzeit	Uhrzeiten	time of day	
+die	Zeit	Zeiten	time	6
+der	Laptop	Laptops	laptop	6
+die	E-Mail	E-Mails	e-mail	6
+das	Handy	Handys	mobile phone	6
+die	SMS	SMS	SMS	6
+die	Briefmarke	Briefmarken	stamp	6
+die	Rechnung	Rechnungen	bill	6
+das	Telefon	Telefone	phone	6
+das	Formular	Formulare	form	6
+der	Drucker	Drucker	printer	6
+die	Maus	Mäuse	mouse	6
+der	Computer	Computer	computer	6
+das	Notizbuch	Notizbücher	notebook	6
+der	Kalender	Kalender	calendar	6
+der	Bildschirm	Bildschirme	screen	6
+der	Stift	Stifte	pen	6
+das	Foto	Fotos	photo	6
+der	Gruß	Grüße	greeting	6
+der	See	Seen	lake	6
+die	Telefonnummer	Telefonnumern	phone number	6
+der	Arbeitsplatz	Arbeitsplätze	workplace	6
+der	Chef	Chefs	boss	6
+die	Firma	Firmen	company	6
+das	Papier	Papiere	paper	
+der	Termin	Termine	meeting	6
+der	Ausflug	Ausflüge	excursion/trip	7
+der	Film	Filme	movie/film	7
+das	Gespräch	Gespräche	conversation	7
+das	Kino	Kinos	movie theater	7
+das	Konzert	Konzerte	concert	8
+das	Museum	Museen	museum	8
+das	Theater	Theater	theatre	8
+das	Restaurant	Restaurants	restaurant	8
+das	Schwimmbad	Schwimmbäder	swimming pool	8
+das	Café	Cafés	Cafeteria	8
+die	Kneipe	Kneipen	pub	8
+die	Bar	Bars	bar	8
+die	Ausstellung	Ausstellungen	exhibition	8
+die	Disco	Discos	disco	8
+die	Uhr	Uhren	clock	8
+der	Morgen	Morgen	morning	8
+der	Abend	Abende	evening	8
+die	Nacht	Nächte	night	8
+der	Vormittag	Vormittage	morning	8
+der	Mittag	Mittage	noon	8
+der	Nachmittag	Nachmittage	afternoon	8
+der	Tag	Tage	day	8
+die	Woche	Wochen	week	8
+der	Montag	Montage	Monday	8
+der	Dienstag	Dienstage	Tuesday	8
+der	Mittwoch	Mittwoche	Wednesday	8
+der	Donnerstag	Donnerstage	Thursday	8
+der	Freitag	Freitage	Friday	8
+der	Samstag	Samstage	Saturday	8
+der	Sonntag	Sonntage	Sunday	8
+das	Essen	Essen	food	8
+das	Radio	Radios	radio	8
+das	Büro	Büros	office	6
+das	Auto	Autos	car	7
+der	Stapel	Stapel	stack/pile	
+die	Freizeit	Freizeiten	leisure/free time	
+das	Hobby	Hobbys	hobby	7
+der	Apfel	Äpfel	apple	9
+der	Braten	Braten	roast meat	9
+das	Brötchen	Brötchen	bun/bread roll/sandwich	9
+das	Brot	Brot	bread	9
+das	Ei	Eier	egg	9
+der	Fisch	Fische	fish	9
+die	Kartoffel	Kartoffeln	potato	9
+die	Orange	Orangen	orange	9
+der	Salat	Salate	salad	9
+die	Schokolade	Schokoladen	chocolate	9
+die	Suppe	Suppen	soup	9
+der	Tee	Tees	tea	9
+die	Tomate	Tomaten	tomato	9
+die	Wurst	Würste	sausage	9
+die	Zitrone	Zitronen	lemon	9
+die	Zwiebel	Zwiebeln	onion	9
+das	Frühstück	Frühstücke	breakfast	9
+der	Kühlschrank	Kühlschränke	fridge	9
+die	Einladung	Einlandungen	invitation	9
+die	Speisekarte	Speisekarten	menu	9
+das	Wochenende	Wochenenden	weekend	9
+der	Bahnhof	Bahnhöfe	railway station	10
+der	Bahnsteig	Bahnsteige	platform	10
+der	Bus	Busse	bus	10
+der	Halt	Halte/Halts	stop	10
+die	Haltestelle	Haltestellen	bus stop	10
+der	Flughafen	Flughäfen	airport	10
+das	Flugzeug	Flugzeuge	plane/airplane	10
+das	Gleis	Gleise	track	10
+der	Koffer	Koffer	suitcase	10
+die	S-Bahn	S-Bahnen	train	10
+die	Straßenbahn/Tram	Straßenbahnen/Trams	tram	10
+das	Taxi	Taxis	taxi	10
+die	U-Bahn	U-Bahnen	subway	10
+das	Verkehrsmittel	Verkehrsmittel	means of transport	10
+der	Zug	Züge	train	10
+die	Minute	Minuten	minute	10
+die	Arbeit	Arbeiten	job	11
+die	Hausaufgabe	Hausaufgaben	homework	11
+die	Pause	Pausen	break	11
+das	Baby	Babys	baby	11
+das	Fahrrad/Rad	Fahrräder/Räder	bicycle	11
+das	Geschenk	Geschenke	gift	11
+der	Monat	Monate	month	11
+das	Paar	Paare	pair	11
+die	Party	Partys	party	11
+die	Reise	Reisen	travel	11
+der	Wein	Weine	wine	11
+der	Frühling	Frühlinge	spring	12
+der	Sommer	Sommer	summer	12
+der	Herbst	Herbste	autumn	12
+der	Winter	Winter	winter	12
+der	Januar	Januare	January	12
+der	Februar	Februare	February	12
+der	März	Märze	March	12
+der	Apri	Aprile	Apri	12
+der	Mai	Maie	May	12
+der	Juni	Junis	June	12
+der	Juli	Julis	July	12
+der	August	Auguste	August	12
+der	September	September	September	12
+der	Oktober	Oktober	October	12
+der	November	November	November	12
+der	Dezember	Dezember	December	12
+das	Fest	Feste	party	12
+die	Hochzeit	Hochzeiten	wedding	12
+das	Neujahr	Neujahre	New Year	12
+das	Silvester	Silvester	New Year's Eve	12
+das	Bier	Biere	beer	12
+die	Person	Personen	person	12
